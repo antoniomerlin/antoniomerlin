@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm amerlin 👋
+
+### Connect with me
+[<img align="left" alt="antoniomerlin | StackOverflow" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="antoniomerlin | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[stackoverflow]: https://stackoverflow.com/users/4796394/antoniomerlin
+[linkedin]: https://linkedin.com/in/antoniomerlin  
+
+![](https://komarev.com/ghpvc/?username=antoniomerlin&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=4397319)
 
 <!--
 **antoniomerlin/antoniomerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
