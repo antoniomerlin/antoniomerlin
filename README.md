@@ -5,7 +5,6 @@
 [<img align="left" alt="antoniomerlin | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [stackoverflow]: https://stackoverflow.com/users/4796394/antoniomerlin
-[linkedin]: https://linkedin.com/in/antoniomerlin  
 
 ![](https://komarev.com/ghpvc/?username=antoniomerlin&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=4397319)
