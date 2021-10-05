@@ -2,7 +2,6 @@
 
 ### Connect with me
 [<img align="left" alt="antoniomerlin | StackOverflow" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="antoniomerlin | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [stackoverflow]: https://stackoverflow.com/users/4796394/antoniomerlin
 
